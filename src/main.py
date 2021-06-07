@@ -260,11 +260,7 @@ class Rocket():
 
 class Main(gym.Env):
     def __init__(self):
-        self.env = Environment(self)
-        self.rocket = Rocket(self)
-        self.score = 0
-        self.steps = 0
-        # self.reset
+        self.reset()
 
     def render(self):
         import os
@@ -349,6 +345,12 @@ class Main(gym.Env):
         self.rocket.framecount += 1
         self.steps += 1
         return self.reward, distances
+
+    def reset(self):
+        self.env = Environment(self)
+        self.rocket = Rocket(self)
+        self.score = 0
+        self.steps = 0
 
 def pressed_to_action(keytouple):
     action_turn = 0.
