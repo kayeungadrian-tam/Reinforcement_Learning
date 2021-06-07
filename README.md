@@ -9,3 +9,7 @@ This example focuses on thhe following objectives:
 
 1. obstacles avoidance
 2. object tracking
+
+
+## Demo
+![demo](https://user-images.githubusercontent.com/51869912/121030198-3aeccb00-c7e4-11eb-9684-cd6535d02638.gif)
