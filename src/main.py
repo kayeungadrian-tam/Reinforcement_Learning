@@ -12,11 +12,6 @@ from pygame.locals import (
 )
 
 window_width, window_height = 800, 600
-from keras.models import Sequential
-from keras.layers.core import Dense, Activation, Dropout
-from keras.optimizers import RMSprop
-from keras.layers.recurrent import LSTM
-from keras.callbacks import Callback
 
 def line_intersect(x1, y1, x2, y2, x3, y3, x4, y4):
     # returns a (x, y) tuple or None if there is no intersection

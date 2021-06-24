@@ -2,7 +2,7 @@ import main
 import numpy as np
 import random
 import csv
-from my_nn import neural_net, LossHistory
+from network import neural_net, LossHistory
 import os.path
 import timeit
 

@@ -4,7 +4,7 @@ Once a model is learned, use this to play it.
 
 import main
 import numpy as np
-from my_nn import neural_net
+from network import neural_net
 
 NUM_SENSORS = 3
 
