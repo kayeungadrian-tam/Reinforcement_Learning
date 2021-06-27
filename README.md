@@ -7,10 +7,17 @@ This example demonstrates the effectiveness, though on as scale, of reinforcemen
 This example focuses on thhe following objectives:
 
 1. obstacles avoidance
-2. object tracking
+2. object pursuit
+3. obstacles avoidance + object pursuit
 
 ## Demos
 
 ### 1. Obstacles Avoidance
 
 ![demo](https://user-images.githubusercontent.com/51869912/121030198-3aeccb00-c7e4-11eb-9684-cd6535d02638.gif)
+
+### 2. Object Pursuit
+
+
+
+### 3. Obstacles Avoidance & Object Pursuit
