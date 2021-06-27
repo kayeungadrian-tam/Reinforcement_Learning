@@ -111,7 +111,7 @@ def train_net(model, params):
 
         # Save the model every 25,000 frames.
         if t % 500 == 0:
-            model.save_weights('saved-models/' + filename + '-' +
+            model.save_weights('../saved-models/' + filename + '-' +
                                str(t) + '.h5',
                                overwrite=True)
             print("Saving model %s - %d" % (filename, t))
