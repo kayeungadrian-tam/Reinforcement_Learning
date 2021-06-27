@@ -21,3 +21,5 @@ This example focuses on thhe following objectives:
 https://user-images.githubusercontent.com/51869912/123546852-5de21d80-d799-11eb-975d-3e69907bf193.mp4
 
 ### 3. Obstacles Avoidance & Object Pursuit
+
+https://user-images.githubusercontent.com/51869912/123546887-794d2880-d799-11eb-95b3-d6aeafa9cc3c.mp4
