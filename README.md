@@ -18,6 +18,6 @@ This example focuses on thhe following objectives:
 
 ### 2. Object Pursuit
 
-
+https://user-images.githubusercontent.com/51869912/123546852-5de21d80-d799-11eb-975d-3e69907bf193.mp4
 
 ### 3. Obstacles Avoidance & Object Pursuit
