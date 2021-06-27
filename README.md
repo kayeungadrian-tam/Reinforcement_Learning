@@ -10,6 +10,22 @@ This example focuses on thhe following objectives:
 2. object pursuit
 3. obstacles avoidance + object pursuit
 
+## Dependency
+
+The following python libraries are used:
+
+* OpenAI Gym
+* PyGame
+* Matplotlib
+* Keras
+* all the other good ones...
+
+## TO-DOs:
+
+1. Refine each scripts
+2. Explore the cause and effect for different reward function
+3. Create a more challenging environment
+
 ## Demos
 
 ### 1. Obstacles Avoidance
